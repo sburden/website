@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Bio
+  url: /bio/
+
+- title: People
+  url: /people/
+
+- title: Papers
+  url: /papers/
+
+- title: Talks
+  url: /talks/
+
+- title: Search
+  url: /search/
