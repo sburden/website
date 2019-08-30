@@ -13,7 +13,7 @@ Congratulations, Ryan!
 <table>
 <tr>
 <td style="width:25%">
-<img width="100%" src="{{ site.url }}/ppl/ryan_robinson.png" />
+<img width="100%" src="{{ site.url }}/people/ryan_robinson.png" />
 </td>
 <td style="width:75%">
 <h3>Ryan Robinson</h3>
