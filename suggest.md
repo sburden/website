@@ -16,17 +16,28 @@ git branch branchname
 git checkout branchname
 ~~~
 
-To create a "blog post" that will appear on the [home page]({{ site.url }}):
+To create a "post" that will appear on the [home page]({{ site.url }}):
 
 ~~~
 # create the post -- refer to other posts for format
-vim _posts/blog/YYYY-MM-DD-new-post.md
-
-# edit the post
-...                     
+vim _posts/YYYY-MM-DD-new-post.md
 
 # add the post to the git repository
-git add _posts/blog/YYYY-MM-DD-new-post.md 
+git add _posts/YYYY-MM-DD-new-post.md 
+
+# add an image included in the post (if applicable)
+cp ~/image.png images/
+git add images/image.png
+~~~
+
+To create an "author" for "posts" other than me (sburden):
+
+~~~
+# add the author information using the template provided
+vim _data/authors.yml
+
+# add the changes to the git repository
+git add -u
 ~~~
 
 To add a citation that will appear on the [papers page]({{ site.url }}/papers):

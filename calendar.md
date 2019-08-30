@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar
-subtitle: usually available in open slots 8a&ndash;5p pt
+subtitle: usually available in open slots 9:30a&ndash;5:30p pt, prefer after noon
 show-avatar: true
 ---
 

@@ -15,11 +15,19 @@ I am co-director of the [BioRobotics Lab](http://brl.ee.washington.edu) and [AMP
 
 I am affiliated with the [WRF](http://www.wrfseattle.org/)-funded [UW Institute for Neuroengineering (UWIN)](http://uwin.uw.edu) and the [AFOSR](http://www.wpafb.af.mil/afrl/afosr)-funded Center of Excellence on [Nature-Inspired Flight Technologies and Ideas (NIFTI)](http://nifti.washington.edu).
 
-I am broadly interested in discovering and formalizing principles of sensorimotor control; I develop and employ data-driven modeling tools and focus on applications in biologically-inspired robotics, neuromechanical motor control, and human-cyber-physical systems.
+I am broadly interested in discovering and formalizing principles of sensorimotor control; I develop and employ data-driven methods and focus on applications in biologically-inspired robotics, neuromechanical motor control, and human-cyber-physical systems.
 
-I teach [AA/EE/ME 547](https://canvas.uw.edu/courses/986611/) (Linear Systems Theory) and [AA/EE/ME 548](https://canvas.uw.edu/courses/1020271) (Linear Multivariable Control).
+I've taught the following courses:
+* [EE 447](https://canvas.uw.edu/courses/1219938) (Control System Analysis) in Fall 2018, Fall 2019
+* [AA/EE/ME 546](https://canvas.uw.edu/courses/1217240) (Optimization and Learning for Control) in Spring 2018
+* [AA/EE/ME 546](https://canvas.uw.edu/courses/1153606) (Hybrid Systems:  Theory, Computation, and Applications) in Spring 2017
+* [AA/EE/ME 547](https://canvas.uw.edu/courses/986611/) (Linear Systems Theory) in Fall 2015, Fall 2016
+* [AA/EE/ME 548](https://canvas.uw.edu/courses/1020271) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019
+* [AA/EE/ME 594](https://canvas.uw.edu/courses/1311510) (Robust Control) in Spring 2019
 
 I keep my availability up-to-date on my [calendar]({{ site.url }}/calendar) &mdash; I'm usually available in any open slot 8a&ndash;5p pt M&ndash;F.
+
+I welcome [suggestions]({{ site.url }}/suggest) for updates to my website.
 
 I try to keep my [CV]({{ site.url }}/cv.pdf) up-to-date, but I suggest checking [papers]({{ site.url }}/papers) and [talks]({{ site.url }}/talks) for recent results.
 
