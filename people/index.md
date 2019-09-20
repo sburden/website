@@ -39,6 +39,11 @@ received his BS in Engineering from Harvey Mudd College in 2016. His research in
 **Andrew Pace**
 earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrical Engineering from the Colorado School of Mines in 2012. His research at Mines focused on control of wind turbines. Before coming to UW, he worked for a few years at the Johns Hopkins University Applied Physics Laboratory. His research interests include experimental robotics and the utilization of control theory in nonsmooth systems.
 
+![Joseph Sullivan]({{ site.url}}/people/joseph_sullivan.jpg){: .pull-left}
+
+**Joseph Sullivan**
+earned his MS in Electrical Engineering from the University of Washington in 2019. He is a student in UW EE advised by Professor Sam Burden. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
+
 ![Momona Yamagami]({{ site.url }}/people/momona_yamagami.jpg){: .pull-left}
 
 **Momona Yamagami**
