@@ -51,15 +51,15 @@ module Jekyll
     def render(context)
       # get the complete paths for the style file and the source file
       stylepath = File.join(context['site']['source'], @style)
-      stylepath["Google Drive"] = "g"
+      # stylepath["Google Drive"] = "g"
 
       #sourcedir = File.join(context['site']['source'], context['page']['dir'])
       sourcedir = File.join(context['site']['source'])
-      sourcedir["Google Drive"] = "g"
+      # sourcedir["Google Drive"] = "g"
       bib = File.join(sourcedir, @bibfile)
 
       outputdir = File.join(context['site']['destination'], context['page']['dir'])
-      outputdir["Google Drive"] = "g"
+      # outputdir["Google Drive"] = "g"
 
       # ensure that the destination directory exists
       FileUtils.mkdir_p(outputdir)
