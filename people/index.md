@@ -37,7 +37,7 @@ earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrica
 ![Joseph Sullivan]({{ site.url}}/people/joseph_sullivan.jpg){: .pull-left}
 
 **Joseph Sullivan**
-earned his BS and MS in Electrical Engineering from the University of Washington in 201X and 2019, respectively; he is now a PhD student in ECE. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
+earned his BS and MS in Electrical Engineering from the University of Washington in 2016 and 2019, respectively; he is now a PhD student in ECE. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
 
 ![Momona Yamagami]({{ site.url }}/people/momona_yamagami.jpg){: .pull-left}
 
