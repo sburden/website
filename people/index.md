@@ -45,6 +45,16 @@ earned his BS and MS in Electrical Engineering from the University of Washington
 graduated magna cum laude from Rice University with a BS in Bioengineering in 2016. She is a PhD student in UW ECE, and is co-advised by Professor Kat Steele in the mechanical engineering department. She is interested in understanding movement impairment and improving rehabilitative technology for people with neurologic injury. 
 
 ---
+
+### Undergraduate students
+
+![Akhil Mandala]({{ site.url }}/people/Akhil.jpg){: .pull-left}
+**Akhil Mandala**
+is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
+
+*links:*
+[website](akhilmandala.github.io)
+---
 ### alumni -- PhD
 
 ![Bora Banjanin]({{ site.url }}/people/bora_banjanin.jpg){: .pull-left}
