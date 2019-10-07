@@ -14,3 +14,5 @@ or limited communication or trust.
 ## Dynamic Teleoperation
 
 ## Hybrid Systems Estimation and Controls
+
+## Haptic Mixed-Reality for Legged Robots
