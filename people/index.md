@@ -39,7 +39,7 @@ received her BS in Electrical Engineering from Stanford University in 2013 and h
 **Andrew Pace**
 earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrical Engineering from the Colorado School of Mines in 2012; he is now a PhD candidate in PhD in ECE. His research at Mines focused on control of wind turbines. Before coming to UW, he worked for a few years at the Johns Hopkins University Applied Physics Laboratory. His research interests include experimental robotics and nonsmooth systems.
 
-![Joseph Sullivan]({{ site.url}}/people/joseph_sullivan.jpg){: .pull-left}
+![Joseph Sullivan]({{ site.url }}/people/joseph_sullivan.jpg){: .pull-left}
 
 **Joseph Sullivan**
 earned his BS and MS in Electrical Engineering from the University of Washington in 2016 and 2019, respectively; he is now a PhD student in ECE. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
@@ -56,6 +56,10 @@ graduated magna cum laude from Rice University with a BS in Bioengineering in 20
 ![Akhil Mandala]({{ site.url }}/people/akhil_mandala.jpg){: .pull-left}
 **Akhil Mandala**
 is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
+
+![Alyssa Giedd]({{ site.url }}/people/alyssa_giedd.jpg){: .pull-left}
+**Alyssa Giedd**
+is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
 
 *links:*
 [website](akhilmandala.github.io)
