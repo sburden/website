@@ -1,9 +1,9 @@
 % BibTeX bibliography style `abuser'
-	% abbreviated style with urls and eprints, better handling of series,
-	% Dutch last names sorted correctly
-	% hacked from standard style `abbrv' version 0.99a
-	% by David Eppstein, Univ. of California, Irvine,
-	% http://www.ics.uci.edu/~eppstein/, eppstein@ics.uci.edu, 6 Nov 1996
+% abbreviated style with urls and eprints, better handling of series,
+% Dutch last names sorted correctly
+% hacked from standard style `abbrv' version 0.99a
+% by David Eppstein, Univ. of California, Irvine,
+% http://www.ics.uci.edu/~eppstein/, eppstein@ics.uci.edu, 6 Nov 1996
 
 ENTRY
   { address
@@ -12,7 +12,7 @@ ENTRY
     chapter
     edition
     editor
-	eprint
+    eprint
     howpublished
     institution
     journal
@@ -25,6 +25,7 @@ ENTRY
     publisher
     school
     series
+    sourcecode
     title
     type
     url
@@ -63,6 +64,13 @@ FUNCTION {format.eprint}
 { eprint empty$
     { "" }
     { "arXiv:" eprint * }
+  if$
+}
+
+FUNCTION {format.sourcecode}
+{ sourcecode empty$
+    { "" }
+    { "sourcecode:" sourcecode * }
   if$
 }
 

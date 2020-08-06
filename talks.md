@@ -6,7 +6,7 @@ show-avatar: true
 
 title | venue
 :-:|:-:
-[Toward telelocomotion:  human sensorimotor control of contact-rich robot dynamics]({{ site.url }}/_talks/20190314-nwu.pptx) | Neuroscience and Robotics Seminar, Northwestern University, Evanston, IL, USA, March 2019 <br> Robotics Seminar at California Institute of Technology, Pasadena, CA, USA, March 2019 <br> NVIDIA Robotics Research Lab, Seattle, WA, USA, April 2019
+[Toward telelocomotion:  human sensorimotor control of contact-rich robot dynamics]({{ site.url }}/_talks/20190314-nwu.pptx) | Robotics Institute Seminar, Carnegie Mellon University, Pittsburgh, PA, USA, Jan 2020 <br> Controls Seminar, University of Michigan, Ann Arbor, MI, USA, October 2019 <br> Neuroscience and Robotics Seminar, Northwestern University, Evanston, IL, USA, March 2019 <br> Robotics Seminar, California Institute of Technology, Pasadena, CA, USA, March 2019 <br> NVIDIA Robotics Research Lab, Seattle, WA, USA, April 2019
 [Why (or, more specifically, when) do feedforward inputs yield stable behaviors?]({{ site.url }}/_talks/20180522-dw.pptx) ([chalk talk]({{ site.url }}/_talks/20180522-dw-chalk-talk.pdf)) ([video](https://www.youtube.com/watch?v=7pzSfBau5Wo)) | Dynamic Walking Meeting, Pensacola, FL, USA, 2018
 [Provably-safe interventions for Human-Cyber-Physical Systems (HCPS)]({{ site.url }}/_talks/20171108-cps-pi.pptx) | NSF CPS PI Meeting, Arlington, VA, USA, 2017
 [Predictive dynamical models for human sensorimotor control of teleoperated robots]({{ site.url }}/_talks/20170517-uwin.pptx) | [UWIN](http://uwin.washington.edu/) seminar series, University of Washington, Seattle, WA, USA, 2017
@@ -19,7 +19,7 @@ title | venue
 [Assessing stability and controllability of multi-legged gaits]({{ site.url }}/_talks/20160607-dw.pptx) | [Dynamic Walking](http://dynamicwalking.org/), [YMCA Camp Ohiyesa](http://ymcadetroit.org/ohiyesa/), Holly, MI, USA, 2016
 [Towards provably-safe interventions for Human-Cyber-Physical Systems]({{ site.url }}/_talks/20160527-cps-robotics.pptx) | in honor of Shankar's 60th, Berkeley, CA, USA, 2016
 [Some thoughts, delivered on a significant occasion, about living a happy and productive life]({{ site.url }}/_talks/20160407-mary-gates.pptx) | [Mary Gates Scholars Welcome Reception](http://expd.washington.edu/mge/scholars/community.htm), Seattle, WA, USA, 2016
-[Humans & Robots]({{ site.url }}/_talks/20160321-mathday.pptx) | University of Washington [MathDay](http://www.math.washington.edu/~morrow/mathday.html), Seattle, WA, USA, 2016, 2017, 2018
+[Humans & Robots]({{ site.url }}/_talks/20180319-mathday.pptx) | University of Washington [MathDay](http://www.math.washington.edu/~morrow/mathday.html), Seattle, WA, USA, 2016, 2017, 2018
 [Predictive dynamical models for sensorimotor control]({{ site.url }}/_talks/20160129-uwin-ncec.pptx) | [UWIN Neural Computation and Engineering Connection](http://uwin.washington.edu/ncec/), Seattle, WA, USA, 2016
 [Predictive dynamical models for legged locomotion]({{ site.url }}/_talks/20160122-neuromech.pptx) | NSF RCN Winter Workshop on Neuromechanics and Dynamics of Locomotion, New Orleans, LA, USA, 2016
 [Predictive dynamical models for sensorimotor control]({{ site.url }}/_talks/20151117-uwee.pptx) | UW EE Colloquium, Seattle, WA, USA, 2015

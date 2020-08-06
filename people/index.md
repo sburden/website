@@ -6,7 +6,7 @@ show-avatar: false
 
 ### faculty
 
-![Sam Burden]({{ site.url }}/people/sam_burden.jpg){: .pull-left}
+![Sam Burden]({{ site.url }}/people/sam_burden.png){: .pull-left}
 
 **Sam Burden**
 earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor.  Sam is broadly interested in discovering and formalizing principles of sensorimotor control.
@@ -82,7 +82,23 @@ previously studied at the State Marine Technical University in St. Petersberg, R
 Her MS thesis, entitled "External Measurement System for Robot Dynamics", was completed in 2017.
 She subsequently entered the EE PhD program at UW Seattle.
 
-### alumni -- postdocs, research scientists, research engineers
+### alumni -- postdocs 
+
+![Tom Libby]({{ site.url }}/people/tom_libby.jpg){: .pull-left}
+
+**Tom Libby**
+received his doctoral and bachelor's degrees in Mechanical Engineering from the University of California, Berkeley, where he was also the Technical Director of the Center for Interdisciplinary Bio-inspiration in Education and Research (CiBER). 
+In 2017, he joined UW as a Postdoctoral fellow at the University of Washington Institute of Neuroengineering, where he worked in collaboration with Sam Burden in Electrical & Computer Engineering and Tom Daniel in Biology. 
+He subsequently became a Senior Research Engineer at SRI International. 
+
+![Ryan Robinson]({{ site.url }}/people/ryan_robinson.jpg){: .pull-left}
+
+**Ryan Robinson**
+was previously a researcher at ARL Adelphi working with Will Nothwang and earned his PhD at UMD.
+He was a postdoc in our group for a year, splitting his time between UW and ARL.
+He subsequently became an Engineer with the Attitude Determination and Control Team at [Spaceflight Industries](http://spaceflight.com/).
+
+### alumni -- research scientists, research engineers
 
 ![SeungHoon (Liam) Han]({{ site.url }}/people/liam_han.jpg){: .pull-left}
 
@@ -98,18 +114,4 @@ He subsequently joined the bioengineering firm [amyris](https://amyris.com/) as 
 earned his BS in Neuroscience from the University of Washington in Seattle in 2014. 
 Following graduation, Darrin participated in two post baccalaureate research appointments in the biology and bioengineering departments at UW. 
 Darrin served as a research scientist and lab manager from 2016 to 2018, helping to launch the [AMP Lab](http://depts.washington.edu/amplify) and mentor two cohorts of [AMP Fellows](http://depts.washington.edu/amplify/?page_id=41). 
-
-![Ryan Robinson]({{ site.url }}/people/ryan_robinson.jpg){: .pull-left}
-
-**Ryan Robinson**
-was previously a researcher at ARL Adelphi working with Will Nothwang and earned his PhD at UMD.
-He was a postdoc in our group for a year, splitting his time between UW and ARL.
-He subsequently became an Engineer with the Attitude Determination and Control Team at [Spaceflight Industries](http://spaceflight.com/).
-
-![Tom Libby]({{ site.url }}/people/tom_libby.jpg){: .pull-left}
-
-**Tom Libby**
-received his doctoral and bachelor's degrees in Mechanical Engineering from the University of California, Berkeley, where he was also the Technical Director of the Center for Interdisciplinary Bio-inspiration in Education and Research (CiBER). 
-In 2017, he joined UW as a Postdoctoral fellow at the University of Washington Institute of Neuroengineering, where he worked in collaboration with Sam Burden in Electrical & Computer Engineering and Tom Daniel in Biology. 
-He subsequently became a Senior Research Engineer at SRI International. 
 

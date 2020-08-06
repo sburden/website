@@ -19,10 +19,10 @@ I am broadly interested in discovering and formalizing principles of sensorimoto
 
 I've taught the following courses:
 * [EE 447](https://canvas.uw.edu/courses/1219938) (Control System Analysis) in Fall 2018, Fall 2019
-* [AA/EE/ME 546](https://canvas.uw.edu/courses/1217240) (Optimization and Learning for Control) in Spring 2018
+* [AA/EE/ME 546](https://canvas.uw.edu/courses/1352564) (Optimization and Learning for Control) in Spring 2018
 * [AA/EE/ME 546](https://canvas.uw.edu/courses/1153606) (Hybrid Systems:  Theory, Computation, and Applications) in Spring 2017
 * [AA/EE/ME 547](https://canvas.uw.edu/courses/986611/) (Linear Systems Theory) in Fall 2015, Fall 2016
-* [AA/EE/ME 548](https://canvas.uw.edu/courses/1020271) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019
+* [AA/EE/ME 548](https://canvas.uw.edu/courses/1371041) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019, Spring 2020
 * [AA/EE/ME 594](https://canvas.uw.edu/courses/1311510) (Robust Control) in Spring 2019
 
 I keep my availability up-to-date on my [calendar]({{ site.url }}/calendar) &mdash; I'm usually available in any open slot 8a&ndash;5p pt M&ndash;F.
@@ -52,6 +52,8 @@ Sam Burden earned his BS with Honors in Electrical Engineering from the Universi
 
 #### 2016 &mdash; ARO Young Investigator Program 
 
+#### 2015 &mdash; Washington Research Foundation Early Faculty Fellow
+
 #### 2011 &mdash; UC Berkeley Outstanding Graduate Student Instructor
 
 #### 2009 &mdash; NSF Graduate Research Fellowship
@@ -63,6 +65,13 @@ Sam Burden earned his BS with Honors in Electrical Engineering from the Universi
 I am always eager to recruit motivated and independent folks.  If you're interested in joining my group, I encourage you to get in contact with me.  Ideally we'll meet in person, e.g. at a conference, but we can also connect over email.  
 
 Before reaching out, look at my recent [papers]({{ site.url }}/papers), [talks]({{ site.url }}/talks), and videos below, and let me know (a) what ideas or problems you find particularly interesting and (b) how you would want to contribute.
+
+---
+### [Toward Telelocomotion:  human sensorimotor control of contact-rich robot dynamics]({{ site.url }}/_talks/20200117-cmu-ri.pptx)
+
+I talked in the CMU Robotics Institute Seminar on Jan 17, 2020.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukd2-FsdEk4" frameborder="5"></iframe>
 
 ---
 

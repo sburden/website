@@ -7,9 +7,9 @@ show-avatar: true
 # Working papers &mdash; feedback appreciated!
 {% bibtex _plugins/unabuser working.bib %}
 
-# Journals
+# Journal and archival conference papers
 {% bibtex _plugins/unabuser journals.bib %}
 
-# Conferences
+# Non-archival conference papers and meeting abstracts
 {% bibtex _plugins/unabuser conferences.bib %}
 
