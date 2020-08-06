@@ -23,7 +23,9 @@ earned his BS with Honors in Electrical Engineering from the University of Washi
 ![Ben Chasnov]({{ site.url }}/people/ben_chasnov.jpg){: .pull-left}
 
 **Ben Chasnov**
-received his BS in Engineering from Harvey Mudd College in 2016. His research interests include control theory, robotics and machine learning. In particular, his current research focuses on deep reinforcement learning for control of cyber-physical systems. 
+received his BS in Engineering from Harvey Mudd College in 2016.  Working at the intersection of
+control theory, online learning and game theory, Ben focuses his research on the theory and design of *multi-agent learning algorithms*.
+The analysis of such algorithms is studied in the context of human/computer interaction, computational neuroscience and aerospace applications. Ben is a Maker at heart and, in his downtime, loves to tinker with food, drink, code and wires. 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <br>
 *links:*
