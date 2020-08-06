@@ -71,6 +71,7 @@ vim people/index.md
 git add -u
 
 # add the bio photo to the people directory
+# IMAGE MUST BE 150 x 150px
 cp ~/firstname_lastname.jpg people/
 git add people/firstname_lastname.jpg
 ~~~

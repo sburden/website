@@ -29,6 +29,11 @@ received his BS in Engineering from Harvey Mudd College in 2016. His research in
 *links:*
 [website](http://students.washington.edu/bchasnov)
 
+![Maneeshika Madduri]({{ site.url }}/people/maneeshika_madduri.jpg){: .pull-left}
+
+**Maneeshika Madduri**
+received her BS in Electrical Engineering from Stanford University in 2013 and her MS in Electrical Engineering from Stanford University in 2015. She is a PhD candidate in UW ECE and is co-advised by Sam Burden and Amy Orsborn. Her interests lie in using brain-machine interfaces to understand the neural mechanisms of motor learning.
+
 ![Andrew Pace]({{ site.url }}/people/andrew_pace.jpg){: .pull-left}
 
 **Andrew Pace**
@@ -48,19 +53,23 @@ graduated magna cum laude from Rice University with a BS in Bioengineering in 20
 
 ### Undergraduate students
 
-![Akhil Mandala]({{ site.url }}/people/Akhil.jpg){: .pull-left}
+![Akhil Mandala]({{ site.url }}/people/akhil_mandala.jpg){: .pull-left}
 **Akhil Mandala**
 is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
 
 *links:*
 [website](akhilmandala.github.io)
+
 ---
+
 ### alumni -- PhD
 
 ![Bora Banjanin]({{ site.url }}/people/bora_banjanin.jpg){: .pull-left}
 
 **Bora Banjanin**
 earned his BS in Electrical Engineering from the University of Washington in Seattle in 2013.  He returned as a PhD student in 2014 to the University of Washington. Bora's research seeks to find principles of control in neuromechanical organisms, translate these principles to robots, and then leverage both approaches to improve dynamic human-machine interfaces.
+
+---
 
 ### alumni -- MS
 
