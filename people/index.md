@@ -52,6 +52,10 @@ graduated magna cum laude from Rice University with a BS in Bioengineering in 20
 **Akhil Mandala**
 is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
 
+![Alyssa Giedd]({{ site.url }}/people/alyssa_giedd.jpg){: .pull-left}
+**Alyssa Giedd**
+is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
+
 *links:*
 [website](akhilmandala.github.io)
 ---
