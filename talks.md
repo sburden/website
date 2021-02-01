@@ -6,7 +6,7 @@ show-avatar: true
 
 title | venue
 :-:|:-:
-[Toward telelocomotion:  human sensorimotor control of contact-rich robot dynamics]({{ site.url }}/_talks/20190314-nwu.pptx) | Neuroscience and Robotics Seminar, Northwestern University, Evanston, IL, USA, March 2019 <br> Robotics Seminar at California Institute of Technology, Pasadena, CA, USA, March 2019 <br> NVIDIA Robotics Research Lab, Seattle, WA, USA, April 2019
+[Toward telelocomotion:  human sensorimotor control of contact-rich robot dynamics]({{ site.url }}/_talks/20190314-nwu.pptx) | Robotics Institute Seminar, Carnegie Mellon University, Pittsburgh, PA, USA, Jan 2020 <br> Controls Seminar, University of Michigan, Ann Arbor, MI, USA, October 2019 <br> Neuroscience and Robotics Seminar, Northwestern University, Evanston, IL, USA, March 2019 <br> Robotics Seminar, California Institute of Technology, Pasadena, CA, USA, March 2019 <br> NVIDIA Robotics Research Lab, Seattle, WA, USA, April 2019
 [Why (or, more specifically, when) do feedforward inputs yield stable behaviors?]({{ site.url }}/_talks/20180522-dw.pptx) ([chalk talk]({{ site.url }}/_talks/20180522-dw-chalk-talk.pdf)) ([video](https://www.youtube.com/watch?v=7pzSfBau5Wo)) | Dynamic Walking Meeting, Pensacola, FL, USA, 2018
 [Provably-safe interventions for Human-Cyber-Physical Systems (HCPS)]({{ site.url }}/_talks/20171108-cps-pi.pptx) | NSF CPS PI Meeting, Arlington, VA, USA, 2017
 [Predictive dynamical models for human sensorimotor control of teleoperated robots]({{ site.url }}/_talks/20170517-uwin.pptx) | [UWIN](http://uwin.washington.edu/) seminar series, University of Washington, Seattle, WA, USA, 2017
@@ -19,7 +19,7 @@ title | venue
 [Assessing stability and controllability of multi-legged gaits]({{ site.url }}/_talks/20160607-dw.pptx) | [Dynamic Walking](http://dynamicwalking.org/), [YMCA Camp Ohiyesa](http://ymcadetroit.org/ohiyesa/), Holly, MI, USA, 2016
 [Towards provably-safe interventions for Human-Cyber-Physical Systems]({{ site.url }}/_talks/20160527-cps-robotics.pptx) | in honor of Shankar's 60th, Berkeley, CA, USA, 2016
 [Some thoughts, delivered on a significant occasion, about living a happy and productive life]({{ site.url }}/_talks/20160407-mary-gates.pptx) | [Mary Gates Scholars Welcome Reception](http://expd.washington.edu/mge/scholars/community.htm), Seattle, WA, USA, 2016
-[Humans & Robots]({{ site.url }}/_talks/20160321-mathday.pptx) | University of Washington [MathDay](http://www.math.washington.edu/~morrow/mathday.html), Seattle, WA, USA, 2016, 2017, 2018
+[Humans & Robots]({{ site.url }}/_talks/20180319-mathday.pptx) | University of Washington [MathDay](http://www.math.washington.edu/~morrow/mathday.html), Seattle, WA, USA, 2016, 2017, 2018
 [Predictive dynamical models for sensorimotor control]({{ site.url }}/_talks/20160129-uwin-ncec.pptx) | [UWIN Neural Computation and Engineering Connection](http://uwin.washington.edu/ncec/), Seattle, WA, USA, 2016
 [Predictive dynamical models for legged locomotion]({{ site.url }}/_talks/20160122-neuromech.pptx) | NSF RCN Winter Workshop on Neuromechanics and Dynamics of Locomotion, New Orleans, LA, USA, 2016
 [Predictive dynamical models for sensorimotor control]({{ site.url }}/_talks/20151117-uwee.pptx) | UW EE Colloquium, Seattle, WA, USA, 2015
@@ -34,7 +34,7 @@ title | venue
 [Optimization for models of legged locomotion: parameter estimation, gait synthesis, and experiment design]({{ site.url }}/_talks/2014sicb.pptx) ([abstract](http://www.sicb.org/meetings/2014/schedule/abstractdetails.php?id=187)) | Society for Integrative and Comparative Biology, Austin, TX, USA, 2014
 [Bio-Inspired Reduction and Robustness of Dynamic Robot Gaits]({{ site.url }}/_talks/20131024umd.pdf) | University of Maryland, College Park, MD, USA, 2013
 [Reduction and Identification for Hybrid Dynamical Models of Terrestrial Locomotion]({{ site.url }}/_talks/2013spie.pdf) | SPIE Conference on Defense, Security, and Sensing (DSS), Baltimore, MD, USA, 2013 <br> Army Research Labs (ARL), Adelphi, MD, USA, 2013
-[From Templates to Anchors: Exact and Approximate Reduction in Models of Legged Locomotion]({{ site.url }}/_talks/2013dw.pdf) ([abstract](http://www.cmu.edu/dynamic-walking/files/abstracts/Burden_2013_DW.pdf)) | Dynamic Walking, Pittsburgh, PA, USA, 2013
+[From Templates to Anchors: Exact and Approximate Reduction in Models of Legged Locomotion]({{ site.url }}/_talks/2013dw.pdf) ([abstract](http://www.cmu.edu/dynamic-walking/files/abstracts/Burden_2013_DW.pdf)) | Dynamic Walking, Pittsburgh, PA, USA, 2013
 [Using reduced—order models to study dynamic legged locomotion: Parameter identification and model validation]({{ site.url }}/_talks/2013sicb.pptx) ([abstract](http://www.sicb.org/meetings/2013/schedule/abstractdetails.php?id=405)) | Society for Integrative and Comparative Biology, San Francisco, CA, USA, 2013
 [Reduction and Robustness via Intermittent Contact]({{ site.url }}/_talks/2012cdc.pdf) | Workshop: [Control Systems in the Open World](http://purl.org/sburden/cdc2012), IEEE Conference on Decision and Control (CDC), Maui, HI, USA, 2012
 [Parameter Identification Near Periodic Orbits of Hybrid Dynamical Systems](SysID2012) | IFAC Symposium on System Identification (SysID), Brussels, Belgium, 2012

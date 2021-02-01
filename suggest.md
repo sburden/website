@@ -65,14 +65,14 @@ To add a bio that will appear on the [people page]({{ site.url }}/people):
 # * follow the format of existing entries 
 # * include links to websites etc when available
 # * include enough text to wrap around the photo
-vim people/index.md
+vim people.md
 
 # add the changes to the git repository
 git add -u
 
-# add the bio photo to the people directory
-cp ~/firstname_lastname.jpg people/
-git add people/firstname_lastname.jpg
+# add the bio photo (150 x 150px headshot) to the people directory
+cp ~/firstname_lastname.jpg images/people/
+git add images/people/firstname_lastname.jpg
 ~~~
 
 Finally, commit your changes, push them to GitHub, and [create a pull request](https://help.github.com/en/articles/creating-a-pull-request).  Then ping me to merge your edits.
