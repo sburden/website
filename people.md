@@ -26,20 +26,18 @@ earned his BS with Honors in Electrical Engineering from the University of Washi
 received his BS in Engineering from Harvey Mudd College in 2016.  Working at the intersection of
 control theory, online learning and game theory, Ben focuses his research on the theory and design of *multi-agent learning algorithms*.
 The analysis of such algorithms is studied in the context of human/computer interaction, computational neuroscience and aerospace applications. Ben is a Maker at heart and, in his downtime, loves to tinker with food, drink, code and wires. 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <br>
 *links:*
 [website](http://students.washington.edu/bchasnov)
+
+![Amber Chou]({{ site.url }}/images/people/amber_chou.jpg){: .pull-left}
+**Amber Chou**
+ earned her BS in Biological Systems Engineering from the University of California, Davis in 2018 and her MS in Biological Systems Engineering from the University of California, Davis in 2020. She is now a PhD student in UW ECE. Amber is interested in robotics, control, and mechatronics.  
 
 ![Maneeshika Madduri]({{ site.url }}/images/people/maneeshika_madduri.jpg){: .pull-left}
 
 **Maneeshika Madduri**
 received her BS in Electrical Engineering from Stanford University in 2013 and her MS in Electrical Engineering from Stanford University in 2015. She is a PhD candidate in UW ECE and is co-advised by Sam Burden and Amy Orsborn. Her interests lie in using brain-machine interfaces to understand the neural mechanisms of motor learning.
-
-![Andrew Pace]({{ site.url }}/images/people/andrew_pace.jpg){: .pull-left}
-
-**Andrew Pace**
-earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrical Engineering from the Colorado School of Mines in 2012; he is now a PhD candidate in PhD in ECE. His research at Mines focused on control of wind turbines. Before coming to UW, he worked for a few years at the Johns Hopkins University Applied Physics Laboratory. His research interests include experimental robotics and nonsmooth systems.
 
 ![Joseph Sullivan]({{ site.url }}/images/people/joseph_sullivan.jpg){: .pull-left}
 
@@ -56,15 +54,7 @@ graduated magna cum laude from Rice University with a BS in Bioengineering in 20
 
 ---
 
-### Undergraduate students
-
-![Akhil Mandala]({{ site.url }}/images/people/akhil_mandala.jpg){: .pull-left}
-**Akhil Mandala**
-is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
-<br>
-*links:*
-[website](akhilmandala.github.io)
-
+### undergraduate students
 
 ![Alyssa Giedd]({{ site.url }}/images/people/alyssa_giedd.jpg){: .pull-left}
 **Alyssa Giedd**
@@ -78,6 +68,12 @@ is an undergraduate student studying Applied Physics at the University of Washin
 
 **Bora Banjanin**
 earned his BS in Electrical Engineering from the University of Washington in Seattle in 2013.  He returned as a PhD student in 2014 to the University of Washington. Bora's research seeks to find principles of control in neuromechanical organisms, translate these principles to robots, and then leverage both approaches to improve dynamic human-machine interfaces.
+
+![Andrew Pace]({{ site.url }}/images/people/andrew_pace.jpg){: .pull-left}
+
+**Andrew Pace**
+earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrical Engineering from the Colorado School of Mines in 2012; he is now a PhD candidate in PhD in ECE. His research at Mines focused on control of wind turbines. Before coming to UW, he worked for a few years at the Johns Hopkins University Applied Physics Laboratory. His research interests include experimental robotics and nonsmooth systems.
+
 
 ---
 
@@ -147,4 +143,17 @@ He subsequently joined the bioengineering firm [amyris](https://amyris.com/) as 
 earned his BS in Neuroscience from the University of Washington in Seattle in 2014. 
 Following graduation, Darrin participated in two post baccalaureate research appointments in the biology and bioengineering departments at UW. 
 Darrin served as a research scientist and lab manager from 2016 to 2018, helping to launch the [AMP Lab](http://depts.washington.edu/amplify) and mentor two cohorts of [AMP Fellows](http://depts.washington.edu/amplify/?page_id=41). 
+
+---
+
+### alumni -- undergraduates
+
+![Akhil Mandala]({{ site.url }}/images/people/akhil_mandala.jpg){: .pull-left}
+**Akhil Mandala**
+is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
+<br>
+*links:*
+[website](akhilmandala.github.io)
+
+
 
