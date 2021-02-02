@@ -60,6 +60,10 @@ graduated magna cum laude from Rice University with a BS in Bioengineering in 20
 **Alyssa Giedd**
 is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
 
+![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
+**Lauren Peterson**
+is an undergraduate student studying Electrical and Computer Engineering at the University of Washington. She is working with Momona to understand movement impairment and improve rehabilitative technology for people with neurologic injury.
+
 ---
 
 ### alumni -- PhD
