@@ -44,6 +44,16 @@ received her BS in Electrical Engineering from Stanford University in 2013 and h
 **Joseph Sullivan**
 earned his BS and MS in Electrical Engineering from the University of Washington in 2016 and 2019, respectively; he is now a PhD student in ECE. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
 
+![Joshua Vasquez]({{ site.url }}/images/people/joshua_vasquez_placeholder.jpg){: .pull-left}
+
+**Joshua Vasquez**
+picked up a BS in Engineering from Harvey Mudd College back in 2014.
+After a brief industry stint at two hardware startups, Joshua now focuses on mixing control theory with robotics hardware design to explore the sensing and dynamic capabilities of robot limbs.
+Off hours, you'll find them running, tinkering, writing, or making modestly coherent guitar noises.
+<br>
+*links:*
+[website](http://www.doublejumpelectric.com/)
+
 ![Momona Yamagami]({{ site.url }}/images/people/momona_yamagami.jpg){: .pull-left}
 
 **Momona Yamagami**
