@@ -6,6 +6,7 @@ show-avatar: true
 
 title | venue
 :-:|:-:
+[Sensorimotor games:  human/machine collaborative learning and control]({{ site.url }}/_talks/20211104-mlmc.pptx) | Plenary at [Motor Learning and Motor Control](http://motor-conference.org), Nov 2021
 [On infinitesimal contraction analysis for tracking through contact-rich dynamics]({{ site.url }}/_talks/20211001-iros.pptx) | [IROS Workshop on Impact-Aware Robotics](https://impact-aware-robotics.gitlab.io/IROS2021workshop/page/program/), Oct 2021
 [Control theory with humans "in the loop"]({{ site.url }}/simuw) | University of Washington Summer Institute for Mathematics (SIMUW), Seattle, WA, USA, Aug 2021
 [Sensorimotor games:  human/machine collaborative learning and control]({{ site.url }}/_talks/20210209-uw-ise.pptx) | Industrial and Systems Engineering Seminar, University of Washington, Seattle, WA, USA, Feb 2021
