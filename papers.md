@@ -4,7 +4,7 @@ title: Papers
 show-avatar: true
 ...
 
-# Working papers &mdash; feedback appreciated!
+# Working papers &mdash; feedback welcome!
 {% bibtex _plugins/unabuser working.bib %}
 
 # Archival papers

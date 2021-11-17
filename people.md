@@ -21,7 +21,6 @@ earned his BS with Honors in Electrical Engineering from the University of Washi
 ### PhD students
 
 ![Ben Chasnov]({{ site.url }}/images/people/ben_chasnov.jpg){: .pull-left}
-
 **Ben Chasnov**
 received his BS in Engineering from Harvey Mudd College in 2016.  Working at the intersection of
 control theory, online learning and game theory, Ben focuses his research on the theory and design of *multi-agent learning algorithms*.
@@ -35,14 +34,21 @@ The analysis of such algorithms is studied in the context of human/computer inte
  earned her BS in Biological Systems Engineering from the University of California, Davis in 2018 and her MS in Biological Systems Engineering from the University of California, Davis in 2020. She is now a PhD student in UW ECE. Amber is interested in robotics, control, and mechatronics.  
 
 ![Maneeshika Madduri]({{ site.url }}/images/people/maneeshika_madduri.jpg){: .pull-left}
-
 **Maneeshika Madduri**
 received her BS in Electrical Engineering from Stanford University in 2013 and her MS in Electrical Engineering from Stanford University in 2015. She is a PhD candidate in UW ECE and is co-advised by Sam Burden and Amy Orsborn. Her interests lie in using brain-machine interfaces to understand the neural mechanisms of motor learning.
 
 ![Joseph Sullivan]({{ site.url }}/images/people/joseph_sullivan.jpg){: .pull-left}
-
 **Joseph Sullivan**
 earned his BS and MS in Electrical Engineering from the University of Washington in 2016 and 2019, respectively; he is now a PhD student in ECE. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
+
+![Joshua Vasquez]({{ site.url }}/images/people/joshua_vasquez_placeholder.jpg){: .pull-left}
+**Joshua Vasquez**
+picked up a BS in Engineering from Harvey Mudd College back in 2014.
+After a brief industry stint at two hardware startups, Joshua now focuses on mixing control theory with robotics hardware design to explore the sensing and dynamic capabilities of robot limbs.
+Off hours, you'll find them running, tinkering, writing, or making modestly coherent guitar noises.
+<br>
+*links:*
+[website](http://www.doublejumpelectric.com/)
 
 ![Momona Yamagami]({{ site.url }}/images/people/momona_yamagami.jpg){: .pull-left}
 
@@ -56,9 +62,16 @@ graduated magna cum laude from Rice University with a BS in Bioengineering in 20
 
 ### undergraduate students
 
-![Alyssa Giedd]({{ site.url }}/images/people/alyssa_giedd.jpg){: .pull-left}
-**Alyssa Giedd**
-is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
+![Akhil Mandala]({{ site.url }}/images/people/akhil_mandala.jpg){: .pull-left}
+**Akhil Mandala**
+is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
+<br>
+*links:*
+[website](akhilmandala.github.io)
+
+![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
+**Lauren Peterson** 
+is an undergraduate student studying Electrical & Computer Engineering at the University of Washington. She studies movement learning strategies in people with and without impaired movement in our group, and participated in an REU site at the Johns Hopkins University under the supervision of Prof Noah Cowan.  Lauren is interested in signal processing, human/machine interaction, and reinforcement learning.
 
 ---
 
@@ -148,12 +161,9 @@ Darrin served as a research scientist and lab manager from 2016 to 2018, helping
 
 ### alumni -- undergraduates
 
-![Akhil Mandala]({{ site.url }}/images/people/akhil_mandala.jpg){: .pull-left}
-**Akhil Mandala**
-is an undergraduate student at the University of Washington working with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
-<br>
-*links:*
-[website](akhilmandala.github.io)
 
+![Alyssa Giedd]({{ site.url }}/images/people/alyssa_giedd.jpg){: .pull-left}
+**Alyssa Giedd**
+is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
 
 

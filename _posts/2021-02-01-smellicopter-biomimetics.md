@@ -4,6 +4,7 @@ title: New Smellicopter Research Manuscript
 subtitle: Joseph publishes new research article with UW collaborators in Biology and Mechanical Engineering
 author: jgsuw
 ---
+Joseph publishes new research article with UW collaborators in Biology and Mechanical Engineering.
 
 Last year posed unprecedented challenges for all of us, so I'm relieved to have ended 2020 with some good news. 
 
