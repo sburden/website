@@ -2,6 +2,9 @@
 layout: post
 title: College of Engineering Awards 
 subtitle: Momona and Sam win CoE Awards
+tags:
+  - awards
+  - news
 ---
 
 PhD student Momona Yamagami receives the Student Research Award from the College of Engineering, and Professor Sam Burden receives the Junior Faculty award.

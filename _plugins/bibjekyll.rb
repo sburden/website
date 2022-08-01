@@ -53,14 +53,21 @@ module Jekyll
       # get the complete paths for the style file and the source file
       stylepath = File.join(context['site']['source'], @style)
       # stylepath["Google Drive"] = "g"
+      if stylepath.include? " "
+        stylepath[" "] = "\ "
+      end
 
       #sourcedir = File.join(context['site']['source'], context['page']['dir'])
       sourcedir = File.join(context['site']['source'])
-      # sourcedir["Google Drive"] = "g"
+      if sourcedir.include? " "
+        sourcedir[" "] = "\ "
+      end
       bib = File.join(sourcedir, @bibfile)
 
       outputdir = File.join(context['site']['destination'], context['page']['dir'])
-      # outputdir["Google Drive"] = "g"
+      if outputdir.include? " "
+        outputdir[" "] = "\ "
+      end
 
       # ensure that the destination directory exists
       FileUtils.mkdir_p(outputdir)

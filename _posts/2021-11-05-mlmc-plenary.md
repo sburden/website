@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Plenary at Conference on Motor Learning and Motor Control
+tags:
+  - conferences
+  - news
 ---
 
 I gave a plenary talk at MLMC 2021 -- the [Conference on Motor Learning and Motor Control](http://motor-conference.org/).

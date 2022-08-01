@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Sam Burden
+#title: Sam Burden
 subtitle: Asst Prof in UW EE
 show-avatar: true
-image:
-  feature: eeb.jpg
+#image:
+#  feature: eeb.jpg
 #  chihuly.jpg
 #  rainier.jpg
 ---
 
-I am an Assistant Professor in Electrical & Computer Engineering at UW Seattle,
-and our Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion).
+I am an Associate Professor with tenure (effective September 16, 2022) in Electrical & Computer Engineering at UW Seattle,
+and I served as my Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion) in the 2021--2022 academic year.
 
-I am co-director of the [BioRobotics Lab](http://brl.ee.washington.edu) and [AMP Center](http://depts.washington.edu/amplify), and am affiliated with the [WRF](http://www.wrfseattle.org/)-funded [UW Institute for Neuroengineering (UWIN)](http://uwin.uw.edu).
+I am co-director of the [AMP Center](http://depts.washington.edu/amplify) and am affiliated with the [WRF](http://www.wrfseattle.org/)-funded [UW Institute for Neuroengineering (UWIN)](http://uwin.uw.edu).
 
 I am broadly interested in discovering and formalizing principles of sensorimotor control; I develop and employ data-driven methods and focus on applications in robotics, neuroengineering, and human-cyber-physical systems.
 
 I've taught the following courses:
-* [EE 447](https://canvas.uw.edu/courses/1219938) (Control System Analysis) in Fall 2018, Fall 2019, Fall 2020
-* [AA/EE/ME 546](https://canvas.uw.edu/courses/1352564) (Optimization and Learning for Control) in Spring 2018, Winter 2020
+* [EE 447](https://canvas.uw.edu/courses/1219938) (Control System Analysis) in Fall 2018, Fall 2019, Fall 2020, Fall 2021
+* [AA/EE/ME 546](https://canvas.uw.edu/courses/1352564) (Optimization and Learning for Control) in Spring 2018, Winter 2020, Winter 2022
 * [AA/EE/ME 546](https://canvas.uw.edu/courses/1153606) (Hybrid Systems:  Theory, Computation, and Applications) in Spring 2017
 * [AA/EE/ME 547](https://canvas.uw.edu/courses/1431472/) (Linear Systems Theory) in Fall 2015, Fall 2016, Winter 2021
-* [AA/EE/ME 548](https://canvas.uw.edu/courses/1371041) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019, Spring 2020, Spring 2021
+* [AA/EE/ME 548](https://canvas.uw.edu/courses/1371041) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019, Spring 2020, Spring 2021, Spring 2022
 * [AA/EE/ME 594](https://canvas.uw.edu/courses/1311510) (Robust Control) in Spring 2019
 
 I keep my availability up-to-date on my [calendar]({{ site.url }}/calendar) &mdash; I'm usually available in any open slot 9a&ndash;5p pt M&ndash;F.
@@ -30,13 +30,18 @@ I welcome [suggestions]({{ site.url }}/suggest) for updates to my website.
 
 I try to keep my [CV]({{ site.url }}/cv.pdf) up-to-date, but I suggest checking [papers]({{ site.url }}/papers) and [talks]({{ site.url }}/talks) for recent results.
 
+After being promoted / tenured, I made the following materials publicly available:
+* the [faculty application]({{ site.url }}/2013-Burden-UW-EE-Faculty-Application.pdf) I submitted to UW EE (now ECE);
+* the [CV]({{ site.url }}/2021-Burden-CV.pdf) and [Self-Advocacy statement]({{ site.url }}/2021-Burden-Self-Advocacy.pdf) I submitted with my application for tenure;
+* my [sabbatical plan]({{ site.url }}/2022-2023-Burden-Sabbatical-Plan.pdf)  for the 2022--2023 academic year.
+
 I'm on [arXiv](http://arxiv.org/find/math/1/au:+Burden_S/0/1/0/all/0/1), [Scholar](https://scholar.google.com/citations?user=I9KPV_MAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0002-2705-7395), [GitHub](https://github.com/sburden), [LinkedIn](www.linkedin.com/in/sam-burden), and [Twitter](https://twitter.com/ProfBurden).
 
 I was born in a (formerly) [little-known town](https://en.wikipedia.org/wiki/Forks,_Washington) on the (stunning) [Olympic Peninsula](https://en.wikipedia.org/wiki/Olympic_Peninsula).  
 
 I enjoy [climbing](http://www.seattleboulderingproject.com/), [paddleboarding](http://collegeclubseattle.com/), and [hiking](http://www.everytrail.com/best/hiking-seattle-washington). 
 
-I identify as a white hetero cis male. I am proud to be a father, husband, and [first-generation college graduate](https://www.washington.edu/diversity/national-first-gen-day/).
+I identify as a white hetero cis male, father, husband, and [first-generation college graduate](https://www.washington.edu/diversity/national-first-gen-day/).
 
 [My pronouns](https://www.mypronouns.org/) are he/him/his.
 
@@ -71,7 +76,7 @@ Sam Burden earned his BS with Honors in Electrical Engineering from the Universi
 
 I am always eager to recruit motivated and independent folks.  If you're interested in joining my group, I encourage you to get in contact with me.  Ideally we'll meet in person, e.g. at a conference, but we can also connect over email.  
 
-Before reaching out, look at my recent [papers]({{ site.url }}/papers), [talks]({{ site.url }}/talks), and videos below, and let me know (a) what ideas or problems you find particularly interesting and (b) how you would want to contribute.
+Before reaching out, look at my recent [papers]({{ site.url }}/papers), [talks]({{ site.url }}/talks), and/or videos below, and let me know (a) what ideas or problems you find particularly interesting and (b) how you would want to contribute.
 
 ---
 ### [On infinitesimal contraction analysis for tracking through contact-rich dynamics]({{ site.url }}/_talks/20211001-iros.pptx)

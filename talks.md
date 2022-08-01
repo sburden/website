@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Talks
+title: talks
 show-avatar: true
 ---
 
 title | venue
 :-:|:-:
+[human/machine interaction is a sensorimotor game]({{ site.url }}/_talks/20220615-dw.pdf) | Dynamic Walking Meeting, Madison, WI, USA, 2022
 [Sensorimotor games:  human/machine collaborative learning and control]({{ site.url }}/_talks/20211104-mlmc.pptx) | Plenary at [Motor Learning and Motor Control](http://motor-conference.org), Nov 2021
 [On infinitesimal contraction analysis for tracking through contact-rich dynamics]({{ site.url }}/_talks/20211001-iros.pptx) | [IROS Workshop on Impact-Aware Robotics](https://impact-aware-robotics.gitlab.io/IROS2021workshop/page/program/), Oct 2021
 [Control theory with humans "in the loop"]({{ site.url }}/simuw) | University of Washington Summer Institute for Mathematics (SIMUW), Seattle, WA, USA, Aug 2021

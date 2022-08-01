@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: people
 show-avatar: false
 ---
 
@@ -50,21 +50,15 @@ Off hours, you'll find them running, tinkering, writing, or making modestly cohe
 *links:*
 [website](http://www.doublejumpelectric.com/)
 
-![Momona Yamagami]({{ site.url }}/images/people/momona_yamagami.jpg){: .pull-left}
-
-**Momona Yamagami**
-graduated magna cum laude from Rice University with a BS in Bioengineering in 2016. She is a PhD student in UW ECE, and is co-advised by Professor Kat Steele in the mechanical engineering department. She is interested in understanding movement impairment and improving rehabilitative technology for images/people with neurologic injury. 
-<br>
-*links:*
-[website](https://momona-yamagami.github.io/)
-
 ---
 
 ### undergraduate students
 
-![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
-**Lauren Peterson** 
-is an undergraduate student studying Electrical & Computer Engineering at the University of Washington. She studies movement learning strategies in people with and without impaired movement in our group, and participated in an REU site at the Johns Hopkins University under the supervision of Prof Noah Cowan.  Lauren is interested in signal processing, human/machine interaction, and reinforcement learning.
+**Annika Pfister**
+
+**Diana Verduzco**
+
+**Raul Villanueva**
 
 ---
 
@@ -73,12 +67,21 @@ is an undergraduate student studying Electrical & Computer Engineering at the Un
 ![Bora Banjanin]({{ site.url }}/images/people/bora_banjanin.jpg){: .pull-left}
 
 **Bora Banjanin**
-earned his BS in Electrical Engineering from the University of Washington in Seattle in 2013.  He returned as a PhD student in 2014 to the University of Washington. Bora's research seeks to find principles of control in neuromechanical organisms, translate these principles to robots, and then leverage both approaches to improve dynamic human-machine interfaces.
+earned his BS in Electrical Engineering from the University of Washington in Seattle in 2013.  He returned as a PhD student in 2014 to the University of Washington. Bora's research sought to find principles of control in neuromechanical organisms, translate these principles to robots, and then leverage both approaches to improve dynamic human-machine interfaces.  After receiving the PhD in ECE, Bora went to Amazon as an Applied Scientist.
 
 ![Andrew Pace]({{ site.url }}/images/people/andrew_pace.jpg){: .pull-left}
 
 **Andrew Pace**
-earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrical Engineering from the Colorado School of Mines in 2012; he is now a PhD candidate in PhD in ECE. His research at Mines focused on control of wind turbines. Before coming to UW, he worked for a few years at the Johns Hopkins University Applied Physics Laboratory. His research interests include experimental robotics and nonsmooth systems.
+earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrical Engineering from the Colorado School of Mines in 2012. His research at Mines focused on control of wind turbines. Before coming to UW, he worked for a few years at the Johns Hopkins University Applied Physics Laboratory. His research at UW included experimental robotics and nonsmooth systems.  After receiving the PhD in ECE, Andrew went to VELDAR as an Electrical Engineer.
+
+![Momona Yamagami]({{ site.url }}/images/people/momona_yamagami.jpg){: .pull-left}
+
+**Momona Yamagami**
+graduated magna cum laude from Rice University with a BS in Bioengineering in 2016. Momona's PhD was co-advised by Professor Kat Steele in the mechanical engineering department. She is interested in understanding movement impairment and improving rehabilitative technology for images/people with neurologic injury.  After receiving the PhD in ECE, Momona went to UW CSE as a postdoc.
+<br>
+*links:*
+[website](https://momona-yamagami.github.io/)
+
 
 
 ---
@@ -154,23 +157,20 @@ Darrin served as a research scientist and lab manager from 2016 to 2018, helping
 
 ### alumni -- undergraduates
 
-<<<<<<< HEAD
-
 ![Alyssa Giedd]({{ site.url }}/images/people/alyssa_giedd.jpg){: .pull-left}
 **Alyssa Giedd**
-is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
-=======
-
-![Alyssa Giedd]({{ site.url }}/images/people/alyssa_giedd.jpg){: .pull-left}
-**Alyssa Giedd**
-is an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
+is was an undergraduate student studying Applied Physics at the University of Washington working with Joseph on a spring mounted payload suspension system. She previously worked on developing a remote emulation of a controller for usage in quantification of motor defecits in individuals with cerebral palsy. She's interested in robotic learning and control, dynamics of motion, and visual perception and processing.
 
 ![Akhil Mandala]({{ site.url }}/images/people/akhil_mandala.jpg){: .pull-left}
 **Akhil Mandala**
-is an undergraduate student at the University of Washington who worked with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
+is was undergraduate student at the University of Washington who worked with Joseph and Ben on developing sensorimotor games for demonstrating principles of human-machine interaction.
 <br>
 *links:*
 [website](akhilmandala.github.io)
+
+![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
+**Lauren Peterson** 
+is was undergraduate student studying Electrical & Computer Engineering at the University of Washington. She studied movement learning strategies in people with and without impaired movement in our group, and participated in an REU site at the Johns Hopkins University under the supervision of Prof Noah Cowan.  
 
 **Cydney Beckwith**
 
@@ -185,7 +185,6 @@ is an undergraduate student at the University of Washington who worked with Jose
 **Clara Orndorff**
 
 **Joshua Quichocho**
->>>>>>> 6c4bbd312ce31e17e72f8b0094b1a8f245226099
 
 **Gabriel Solia**
 

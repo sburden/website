@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: News
+  url: /
+
 - title: Bio
   url: /bio/
 
@@ -11,6 +14,9 @@
 
 - title: Talks
   url: /talks/
+
+- title: Blog
+  url: /blog/
 
 - title: Search
   url: /search/

@@ -1,20 +1,24 @@
 ---
 layout: page
-title: Papers
+title: papers
 show-avatar: true
 ...
 
-# Working papers &mdash; feedback welcome!
+## Working papers &mdash; feedback welcome!
 {% bibtex _plugins/unabuser working.bib %}
 
-# Archival papers
+## Archival papers
 {% bibtex _plugins/unabuser archival.bib %}
 
-# Non-archival papers and meeting abstracts
+## Non-archival papers and meeting abstracts
 {% bibtex _plugins/unabuser non-archival.bib %}
 
-# PhD theses 
+## PhD theses 
 {% bibtex _plugins/unabuser phd.bib %}
 
-# MS theses 
+## MS theses 
 {% bibtex _plugins/unabuser ms.bib %}
+
+## Unpublished papers
+{% bibtex _plugins/unabuser unpub.bib %}
+
