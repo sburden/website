@@ -17,11 +17,11 @@ I am co-director of the [AMP Center](http://depts.washington.edu/amplify) and am
 I am broadly interested in discovering and formalizing principles of sensorimotor control; I develop and employ data-driven methods and focus on applications in robotics, neuroengineering, and human-cyber-physical systems.
 
 I've taught the following courses:
-* [EE 447](https://canvas.uw.edu/courses/1219938) (Control System Analysis) in Fall 2018, Fall 2019, Fall 2020, Fall 2021
+* [EE 447](https://canvas.uw.edu/courses/1477838) (Control System Analysis) in Fall 2018, Fall 2019, Fall 2020, Fall 2021
 * [AA/EE/ME 546](https://canvas.uw.edu/courses/1352564) (Optimization and Learning for Control) in Spring 2018, Winter 2020, Winter 2022
 * [AA/EE/ME 546](https://canvas.uw.edu/courses/1153606) (Hybrid Systems:  Theory, Computation, and Applications) in Spring 2017
 * [AA/EE/ME 547](https://canvas.uw.edu/courses/1431472/) (Linear Systems Theory) in Fall 2015, Fall 2016, Winter 2021
-* [AA/EE/ME 548](https://canvas.uw.edu/courses/1371041) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019, Spring 2020, Spring 2021, Spring 2022
+* [AA/EE/ME 548](https://canvas.uw.edu/courses/1447847) (Linear Multivariable Control) in Winter 2016, Winter 2017, Winter 2019, Spring 2020, Spring 2021, Spring 2022
 * [AA/EE/ME 594](https://canvas.uw.edu/courses/1311510) (Robust Control) in Spring 2019
 
 I keep my availability up-to-date on my [calendar]({{ site.url }}/calendar) &mdash; I'm usually available in any open slot 9a&ndash;5p pt M&ndash;F.
@@ -49,7 +49,7 @@ I identify as a white hetero cis male, father, husband, and [first-generation co
 
 ## brief bio
 
-Sam Burden earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor, where he has received awards for research (Young Investigator Program, Army Research Office, 2016; CAREER, National Science Foundation, M3X program, 2021) and service (Junior Faculty Award, UW College of Engineering, 2021), and where he currently serves as his Department's (first) Associate Chair for Diversity, Equity, and Inclusion, helping to define and implement a sustainable and impactful strategy.  Sam is broadly interested in discovering and formalizing principles of sensorimotor control.  Specifically, he focuses on applications in robotics, neuroengineering, and (human-)cyber-physical systems.  
+Sam Burden earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor, where he has received awards for research (Young Investigator Program, Army Research Office, 2016; CAREER, National Science Foundation, M3X program, 2021) and service (Junior Faculty Award, UW College of Engineering, 2021). Sam served served as his Department's (first) Associate Chair for Diversity, Equity, and Inclusion in 2021--2022 and was promoted to Associate Professor with tenure in 2022.  Sam is broadly interested in discovering and formalizing principles of sensorimotor control.  Specifically, he focuses on applications in robotics, neuroengineering, and (human-)cyber-physical systems.  
 
 
 ---

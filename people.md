@@ -9,7 +9,7 @@ show-avatar: false
 ![Sam Burden]({{ site.url }}/images/people/sam_burden.png){: .pull-left}
 
 **Sam Burden**
-earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor.  Sam is broadly interested in discovering and formalizing principles of sensorimotor control.
+earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as a faculty member.  Sam is broadly interested in discovering and formalizing principles of sensorimotor control.
 <br>
 *links:*
 [website]({{ site.url }})
@@ -33,6 +33,14 @@ The analysis of such algorithms is studied in the context of human/computer inte
 **Amber Chou**
  earned her BS in Biological Systems Engineering from the University of California, Davis in 2018 and her MS in Biological Systems Engineering from the University of California, Davis in 2020. She is now a PhD student in UW ECE. Amber is interested in robotics, control, and mechatronics.  
 
+![Ember Chow]({{ site.url }}/images/people/ember_chow.jpg){: .pull-left}
+**Ember Chow**
+earned her BS in Intelligent Systems Engineering and her BA in Mathematics from Indiana University, Bloomington in 2022. She is currently a PhD student in UW ECE. Ember has pursued research projects into haptics, human-computer interaction, and soft-robotics as an undergraduate, and is currently interested in projects at the intersection of haptics, controls, robotics, mechatronics, and human-robot interaction. In her downtime she's an avid Magic: the Gathering player and hobbyist prose fiction writer.
+
+![Jason Isa]({{ site.url }}/images/people/jason_isa.jpg){: .pull-left}
+**Jason Isa** 
+earned his BS with majors in Electrical Engineering and Management Science and minors in Entrepreneurship & Innovation and Mathematics from the University of California, San Diego in 2022. He is now a PhD student in UW ECE and co-advised with Lillian Ratliff. As an undergrad, Jason pursued research in computer vision and robotics in the context of intelligent and safe automobiles. Jason is now focusing his research at the intersection of control theory and game theory in the context of human-machine interaction and design.
+
 ![Maneeshika Madduri]({{ site.url }}/images/people/maneeshika_madduri.jpg){: .pull-left}
 **Maneeshika Madduri**
 received her BS in Electrical Engineering from Stanford University in 2013 and her MS in Electrical Engineering from Stanford University in 2015. She is a PhD candidate in UW ECE and is co-advised by Sam Burden and Amy Orsborn. Her interests lie in using brain-machine interfaces to understand the neural mechanisms of motor learning.
@@ -54,7 +62,9 @@ Off hours, you'll find them running, tinkering, writing, or making modestly cohe
 
 ### undergraduate students
 
+![Annika Pfister]({{ site.url }}/images/people/annika_pfister.jpg){: .pull-left}
 **Annika Pfister**
+is a neuroscience major at Wellesley College. She worked with Maneeshika and Amber on a REU project sponsored by the [Center for Neurotechnology](https://centerforneurotech.uw.edu/) to implement dynamic learning rates in adaptive decoders. Her research interests include neuroprosthetics, closed-loop sensorimotor control, and noninvasive neural interfaces.
 
 **Diana Verduzco**
 
@@ -77,7 +87,7 @@ earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrica
 ![Momona Yamagami]({{ site.url }}/images/people/momona_yamagami.jpg){: .pull-left}
 
 **Momona Yamagami**
-graduated magna cum laude from Rice University with a BS in Bioengineering in 2016. Momona's PhD was co-advised by Professor Kat Steele in the mechanical engineering department. She is interested in understanding movement impairment and improving rehabilitative technology for images/people with neurologic injury.  After receiving the PhD in ECE, Momona went to UW CSE as a postdoc.
+graduated magna cum laude from Rice University with a BS in Bioengineering in 2016. Momona's PhD was co-advised by Professor Kat Steele in the mechanical engineering department. She is interested in understanding movement impairment and improving rehabilitative technology for images/people with neurologic injury.  After receiving the PhD in ECE, Momona went to UW CSE as a postdoc and then on to Rice ECE as an Assistant Professor.
 <br>
 *links:*
 [website](https://momona-yamagami.github.io/)
@@ -170,7 +180,9 @@ is was undergraduate student at the University of Washington who worked with Jos
 
 ![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
 **Lauren Peterson** 
-is was undergraduate student studying Electrical & Computer Engineering at the University of Washington. She studied movement learning strategies in people with and without impaired movement in our group, and participated in an REU site at the Johns Hopkins University under the supervision of Prof Noah Cowan.  
+is was undergraduate student studying Electrical & Computer Engineering at the University of Washington. She studied movement learning strategies in people with and without impaired movement in our group, and participated in an REU site at the Johns Hopkins University under the supervision of Prof Noah Cowan.
+
+**Alexis Blakes**
 
 **Cydney Beckwith**
 

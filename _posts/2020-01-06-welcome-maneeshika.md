@@ -6,6 +6,4 @@ tags:
   - news
 ---
 
-Welcome to Maneeshika Madduri, who is a new PhD student co-advised with [Professor Amy Orsborn](http://faculty.washington.edu/aorsborn/).
-
-Maneeshika is interested in studying the neural principles underlying motor learning using brain-machine interfaces and is joining UW after working at a medical devices start-up and Sandia National Labs. Maneeshika finished her undergraduates and masters degrees in Electrical Engineering from Stanford University. 
+Welcome to Maneeshika Madduri, who is a new PhD student co-advised with [Professor Amy Orsborn](http://faculty.washington.edu/aorsborn/) joining us after earning her undergraduate and masters degrees in Electrical Engineering at Stanford and subsequently working at Sandia National Labs and a medical devices start-up.  Maneeshika is interested in studying the neural principles underlying motor learning using brain-machine interfaces.

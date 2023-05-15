@@ -20,13 +20,13 @@ We use hyak for two key purposes:  **storage** and **compute**.  This guide will
 
 The next section after that is on **data transfer/storage/backup with hyak**, and contains several subsections.
 
-My recommended compute workflow for hyak is based on [Singularity containers](https://en.wikipedia.org/wiki/Singularity_(software)).  Singularity only runs natively on the Linux kernel for ([reasons](https://sylabs.io/guides/3.0/user-guide/installation.html)), so the first step is getting access to a Linux commandline.  
+My recommended compute workflow for hyak is based on [Apptainer containers](https://apptainer.org/) (formerly [Singularity](https://en.wikipedia.org/wiki/Singularity_(software))).  Apptainer/Singularity only runs natively on the Linux kernel for ([reasons](https://apptainer.org/docs/admin/main/installation.html)), so the first step is getting access to a Linux commandline.  
 
-Fortunately hyak runs Linux and already has Singularity installed, so if you're happy doing all your development remotely you can skip to the next section, **using Singularity on hyak**.
+Fortunately hyak runs Linux and already has Apptainer installed, so if you're happy doing all your development remotely you can skip to the next section, **using Apptainer on hyak**.
 
-If you want to do local development on a Mac / OSX computer, read the section on **getting Singularity on Mac / OSX**.  I list this first because it's easier (because of course it is).
+If you want to do local development on a Mac / OSX computer, read the section on **getting Apptainer (Singularity) on Mac / OSX**.  I list this first because it's easier (because of course it is).
 
-If you want to do local development on a Windows computer, read the sections on **getting Linux on Windows** and **getting Singularity on Linux**.  Although this takes some doing, it's 100% viable and exactly what I use.
+If you want to do local development on a Windows computer, read the sections on **getting Linux on Windows** and **getting Apptainer (Singularity) on Linux**.  Although this takes some doing, it's 100% viable and exactly what I use.
 
 ---
 ## logging in to hyak
@@ -53,7 +53,7 @@ Your command line prompt will now be preceded by `[YOU@klone ~]`, indicating you
 
 First, it is important to understand that there are multiple locations for data storage on hyak, each with their own uses and constraints.
 1. `/tmp`: 350 GB quota per `JOB` on a node's SSD;
-2. `~` / `/gscratch/home/USER`: 10 GB quota per `USER` on the network drive;
+2. `~` (i.e. "home"): 10 GB quota per `USER` on the network drive;
 3. `/gscratch/GROUP`: 1 TB quota per `GROUP` on the network drive;
 4. `lolo:/archive/GROUP`: 1 TB quota per `GROUP` [backed up on tape](https://hyak.uw.edu/docs/storage/data).
 
@@ -63,7 +63,7 @@ The network drive (2. & 3.) is quite fast (uses a smart combination of spinning 
 
 However, the only storage that is backed up is (4.), so it is important to regularly archive data from (1.--3.) to (4.), but **(4.) should only be used for backup -- not active work** since (4.) is written to physical tape.
 
-Finally, the networked and backup storage (2., 3., 4.) place limits on the number of files (sometimes termed `inodes` in the hyak documentation) in addition to the amount of storage.  So particularly when backing up lots of data, it is important to minimize the number of files.  One easy way to do this is to create [Tar](https://www.gnu.org/software/tar/) files -- additional instructions provided below.  But it may be worthwhile to consider this constraint when deciding on a data architecture for your work.
+Finally, the networked and backup storage (2., 3., 4.) place limits on the number of individual files (sometimes termed `inodes` in the hyak documentation) in addition to the amount of storage.  So particularly when backing up lots of data, it is important to minimize the number of files.  One easy way to do this is to package stuff up into [Tar](https://www.gnu.org/software/tar/) files -- additional instructions provided below.  But it may be worthwhile to consider this constraint when deciding on a data architecture for your work.
 
 More specifically, if we wanted to use the entire storage quota, the average filesize in the network drive (2., 3.) would need to be > 10 MB, and the average filesize in the backup (4.) would need to be > 1 GB.  So please package your data into sufficiently-large chunks before transferring to hyak or lolo.
 
@@ -201,7 +201,7 @@ Host hyak
 Now assuming your username on your local machine is the same as your UW Net ID, you can just `ssh hyak` and `ssh lolo`, and from hyak you can just `ssh lolo` -- same goes for using `sftp` and `rsync` <3
 
 ---
-## using Singularity
+## using Apptainer on hyak
 
 First, log in to hyak using the instructions above.
 
@@ -253,11 +253,13 @@ IT'S SOO EASY !!!
 
 
 ---
-## getting Singularity on Mac / OSX
+## getting Apptainer (Singularity) on Mac / OSX
 
 ***Tested by:*** TODO
 
 The following tl;dir instructions are based on [this](https://sylabs.io/guides/3.0/user-guide/installation.html).  You'll use the [Terminal](https://support.apple.com/guide/terminal/welcome/mac) or your favorite [command line interface (CLI)](https://www.davidbaumgold.com/tutorials/command-line/).
+
+***Note:*** the following instructions are a little out of date since [Singularity evolved into Apptainer](https://medium.com/@dcat52/why-you-should-use-apptainer-21ef1fe7e0bb).  However, since Apptainer can load Singularity containers, the instructions remain totally valid -- you'll just use `singularity` on your local machine and `apptainer` on [hyak](https://hyak.uw.edu/docs/tools/containers/).
 
 First install [Homebrew](https://brew.sh/):
 ~~~
@@ -271,7 +273,7 @@ brew cask install virtualbox && \
     brew cask install vagrant-manager
 ~~~
 
-Now create and log in to a virtual machine that has Singularity set up:
+Now create and log in to a virtual machine that has Apptainer set up:
 ~~~
 mkdir vm-singularity && \
     cd vm-singularity
@@ -288,7 +290,7 @@ singularity version
 ~~~
 should print out something like `3.0.3-1`.
 
-You're now ready for **using Singularity locally**.
+You're now ready for **using Apptainer (Singularity) locally**.
 
 ---
 ## getting Linux on Windows
@@ -311,16 +313,18 @@ By default, this command will install the [latest long-term support (LTS) versio
 
 I recommend installing the [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/) to access this Ubuntu command line.
 
-You're now ready for **getting Singularity on Linux**.
+You're now ready for **getting Apptainer (Singularity) on Linux**.
 
 ---
-## getting Singularity on Linux
+## getting Apptainer (Singularity) on Linux
 
 ***Tested by:*** TODO
 
 The following tl;dr instructions are based on [this](https://sylabs.io/guides/3.0/user-guide/installation.html) and should work on (Ubuntu/Debian-style) Linux regardless of whether you are using WSL on Windows or running natively. 
 
-***Note:*** Singularity is already installed on hyak, so you *do not* need to follow these instructions there -- you can skip to the next section.
+***Note:*** the following instructions are a little out of date since [Singularity evolved into Apptainer](https://medium.com/@dcat52/why-you-should-use-apptainer-21ef1fe7e0bb).  However, since Apptainer can load Singularity containers, the instructions remain totally valid -- you'll just use `singularity` on your local machine and `apptainer` on [hyak](https://hyak.uw.edu/docs/tools/containers/).
+
+***Note:*** Apptainer is already installed on hyak, so you *do not* need to follow these instructions there -- you can skip to the next section.
 
 Start by installing dependencies:
 ~~~
@@ -370,14 +374,16 @@ export VERSION=3.0.3 && \
     sudo make -C ./builddir install
 ~~~
 
-You're now ready for **using Singularity locally**.
+You're now ready for **using Apptainer (Singularity) locally**.
 
 ----
-## using Singularity locally
+## using Apptainer (Singularity) locally
 
 ***Tested by:*** TODO
 
-These instructions should work the same on your local machine as they do on hyak, so long as you have Singularity version 3 or above.
+These instructions should work the same on your local machine as they do on hyak, so long as you have Apptainer (Singularity) version 3 or above.
+
+***Note:*** the following instructions are a little out of date since [Singularity evolved into Apptainer](https://medium.com/@dcat52/why-you-should-use-apptainer-21ef1fe7e0bb).  However, since Apptainer can load Singularity containers, the instructions remain totally valid -- you'll just use `singularity` on your local machine and `apptainer` on [hyak](https://hyak.uw.edu/docs/tools/containers/).
 
 First, create the following file named `sburden.def`:
 ~~~
@@ -397,6 +403,6 @@ singularity build --fakeroot sburden.sif ./sburden.def
 ~~~
 
 Caveats on hyak:
-* you'll need to enter `module load singularity` first to .. load ... Singularity;
+* you'll need to enter `module load singularity` first to .. load ... apptainer;
 * you'll want to replace `sburden.sif` with `/tmp/sburden.sif` and then `cp /tmp/sburden.sif .` once the building finishes for higher performance (`/tmp` is physically on the node, whereas `~` and `/gscratch` are on the network);
 
