@@ -10,11 +10,9 @@ show-avatar: true
 ---
 
 I am an Associate Professor with tenure (effective September 16, 2022) in Electrical & Computer Engineering at UW Seattle,
-and I served as my Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion) in the 2021--2022 academic year.
+and I served as my Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion) in the 2021--2022 academic year.  I was also a founding co-director of the [AMP Center](http://depts.washington.edu/amplify). 
 
-I am co-director of the [AMP Center](http://depts.washington.edu/amplify) and am affiliated with the [WRF](http://www.wrfseattle.org/)-funded [UW Institute for Neuroengineering (UWIN)](http://uwin.uw.edu).
-
-I am broadly interested in discovering and formalizing principles of sensorimotor control; I develop and employ data-driven methods and focus on applications in robotics, neuroengineering, and human-cyber-physical systems.
+I am broadly interested in discovering and formalizing principles of sensorimotor control; I focus on applications in robotics, neuroengineering, and human-cyber-physical systems.
 
 I've taught the following courses:
 * [EE 447](https://canvas.uw.edu/courses/1477838) (Control System Analysis) in Fall 2018, Fall 2019, Fall 2020, Fall 2021
@@ -77,6 +75,11 @@ Sam Burden earned his BS with Honors in Electrical Engineering from the Universi
 I am always eager to recruit motivated and independent folks.  If you're interested in joining my group, I encourage you to get in contact with me.  Ideally we'll meet in person, e.g. at a conference, but we can also connect over email.  
 
 Before reaching out, look at my recent [papers]({{ site.url }}/papers), [talks]({{ site.url }}/talks), and/or videos below, and let me know (a) what ideas or problems you find particularly interesting and (b) how you would want to contribute.
+
+---
+### [human/machine interaction is a sensorimotor game]({{ site.url }}/_talks/20220615-dw.pdf)
+
+I presented at the 2022 Dynamic Walking meeting at "the other UW" in Madison, WI. You can [watch the video using this link](https://mediaspace.wisc.edu/media/DW22_Burden,+Sam+-+June+15th+2022,+10A52A00+am/1_b22fx5a7).
 
 ---
 ### [On infinitesimal contraction analysis for tracking through contact-rich dynamics]({{ site.url }}/_talks/20211001-iros.pptx)

@@ -12,11 +12,11 @@ show-avatar: true
 ## Working papers &mdash; feedback welcome!
 {% bibtex _plugins/unabuser working.bib %}
 
-## Archival papers
-{% bibtex _plugins/unabuser archival.bib %}
-
 ## Reviews
 {% bibtex _plugins/unabuser review.bib %}
+
+## Archival papers
+{% bibtex _plugins/unabuser archival.bib %}
 
 ## Non-archival papers and meeting abstracts
 {% bibtex _plugins/unabuser non-archival.bib %}

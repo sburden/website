@@ -41,7 +41,7 @@ Sometime in the middle of this, [I herniated my L2 disc](https://en.wikipedia.or
 
 ## an aside
 
-At this point in my narrative, I'm imagining some readers thinking I'm exaggerating symptoms or seeking attention or rationalizing laziness or making a bigger deal out of all of this than my circumstances justified.  After all, everyone has obstacles to overcome -- many much more significant than mine.  I'm not special, other than the obvious privilege {% cite McIntosh2007-hu --file illness %} and narcissism that motivates me to blast this story on the interwebs.  This is probably, mostly, just me [projecting](https://en.wikipedia.org/wiki/Psychological_projection) my own insecurities.  But if you happen to find yourself thinking any of these things (even dimly), you are in good company:  I think them all day, every day.  
+At this point in my narrative, I'm imagining some readers thinking I'm exaggerating symptoms or seeking attention or rationalizing laziness or making a bigger deal out of all of this than my circumstances justified.  After all, everyone has obstacles to overcome -- many much more significant than mine.  I'm not special, other than the obvious privilege and narcissism that motivates me to blast this story on the interwebs.  This is probably, mostly, just me [projecting](https://en.wikipedia.org/wiki/Psychological_projection) my own insecurities.  But if you happen to find yourself thinking any of these things (even dimly), you are in good company:  I think them all day, every day.  
 
 ## diagnosis & treatment
 
