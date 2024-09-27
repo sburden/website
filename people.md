@@ -60,6 +60,10 @@ Off hours, you'll find them running, tinkering, writing, or making modestly cohe
 
 **Raul Villanueva**
 
+![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
+**Lauren Peterson**
+is an undergraduate student studying Electrical and Computer Engineering at the University of Washington. She is working with Momona to understand movement impairment and improve rehabilitative technology for people with neurologic injury.
+
 ---
 
 ### alumni -- PhD
