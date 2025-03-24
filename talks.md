@@ -6,6 +6,8 @@ show-avatar: true
 
 title | venue
 :-:|:-:
+[human/machine interaction games]({{ site.url }}/_talks/20240918-gatech.pptx) | Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, Atlanta, GA, USA, 2024
+[Why can animals outrun robots?]({{ site.url }}/_talks/20240523-dw.pptx) | Dynamic Walking Meeting, Pensacola, FL, USA, 2024
 [human/machine interaction is a sensorimotor game]({{ site.url }}/_talks/20220615-dw.pdf) | Dynamic Walking Meeting, Madison, WI, USA, 2022
 [Sensorimotor games:  human/machine collaborative learning and control]({{ site.url }}/_talks/20211104-mlmc.pptx) | Plenary at [Motor Learning and Motor Control](http://motor-conference.org), Nov 2021
 [On infinitesimal contraction analysis for tracking through contact-rich dynamics]({{ site.url }}/_talks/20211001-iros.pptx) | [IROS Workshop on Impact-Aware Robotics](https://impact-aware-robotics.gitlab.io/IROS2021workshop/page/program/), Oct 2021

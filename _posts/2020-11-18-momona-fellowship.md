@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momona receives a fellowship
+title: Momona receives Peden fellowship
 subtitle: Irene Peden Fellowship from Electrical & Computer Engineering
 tags:
   - fellowships

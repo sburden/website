@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emmy receives NSF fellowship
+title: Ember receives NSF fellowship
 subtitle: 
 author: 
 tags:

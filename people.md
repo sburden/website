@@ -20,15 +20,6 @@ earned his BS with Honors in Electrical Engineering from the University of Washi
 ---
 ### PhD students
 
-![Ben Chasnov]({{ site.url }}/images/people/ben_chasnov.jpg){: .pull-left}
-**Ben Chasnov**
-received his BS in Engineering from Harvey Mudd College in 2016.  Working at the intersection of
-control theory, online learning and game theory, Ben focuses his research on the theory and design of *multi-agent learning algorithms*.
-The analysis of such algorithms is studied in the context of human/computer interaction, computational neuroscience and aerospace applications. Ben is a Maker at heart and, in his downtime, loves to tinker with food, drink, code and wires. 
-<br>
-*links:*
-[website](http://students.washington.edu/bchasnov)
-
 ![Amber Chou]({{ site.url }}/images/people/amber_chou.jpg){: .pull-left}
 **Amber Chou**
  earned her BS in Biological Systems Engineering from the University of California, Davis in 2018 and her MS in Biological Systems Engineering from the University of California, Davis in 2020. She is now a PhD student in UW ECE. Amber is interested in robotics, control, and mechatronics.  
@@ -41,10 +32,6 @@ earned her BS in Intelligent Systems Engineering and her BA in Mathematics from 
 **Jason Isa** 
 earned his BS with majors in Electrical Engineering and Management Science and minors in Entrepreneurship & Innovation and Mathematics from the University of California, San Diego in 2022. He is now a PhD student in UW ECE and co-advised with Lillian Ratliff. As an undergrad, Jason pursued research in computer vision and robotics in the context of intelligent and safe automobiles. Jason is now focusing his research at the intersection of control theory and game theory in the context of human-machine interaction and design.
 
-![Maneeshika Madduri]({{ site.url }}/images/people/maneeshika_madduri.jpg){: .pull-left}
-**Maneeshika Madduri**
-received her BS in Electrical Engineering from Stanford University in 2013 and her MS in Electrical Engineering from Stanford University in 2015. She is a PhD candidate in UW ECE and is co-advised by Sam Burden and Amy Orsborn. Her interests lie in using brain-machine interfaces to understand the neural mechanisms of motor learning.
-
 ![Joseph Sullivan]({{ site.url }}/images/people/joseph_sullivan.jpg){: .pull-left}
 **Joseph Sullivan**
 earned his BS and MS in Electrical Engineering from the University of Washington in 2016 and 2019, respectively; he is now a PhD student in ECE. Joseph is currently pursuing research projects related to legged robots, lower-limb prosthetic and assistive devices, and dynamical human-machine interactions.
@@ -53,13 +40,9 @@ earned his BS and MS in Electrical Engineering from the University of Washington
 
 ### undergraduate students
 
-![Annika Pfister]({{ site.url }}/images/people/annika_pfister.jpg){: .pull-left}
-**Annika Pfister**
-is a neuroscience major at Wellesley College. She worked with Maneeshika and Amber on a REU project sponsored by the [Center for Neurotechnology](https://centerforneurotech.uw.edu/) to implement dynamic learning rates in adaptive decoders. Her research interests include neuroprosthetics, closed-loop sensorimotor control, and noninvasive neural interfaces.
 
-**Diana Verduzco**
+![Liya Hutchison]({{ site.url }}/images/people/liya_hutchison.png){: .pull-left} is an undergraduate student studying Informatics and Human-Computer Interaction. Working alongside Amber Chou, she develops co-adaptive human-machine interfaces integrating biosignal processing, surface electromyography (EMG), and haptics. Her work includes designing multimodal control systems for assistive technology and co-adaptive teleoperation. She is particularly interested in the future of human-machine interaction in healthcare, and how robotics can aid in medicine and accessibility.
 
-**Raul Villanueva**
 
 ---
 
@@ -81,9 +64,20 @@ earned his BS in Engineering from Swarthmore College in 2009 and MS in Electrica
 graduated magna cum laude from Rice University with a BS in Bioengineering in 2016. Momona's PhD was co-advised by Professor Kat Steele in the mechanical engineering department. She is interested in understanding movement impairment and improving rehabilitative technology for images/people with neurologic injury.  After receiving the PhD in ECE, Momona went to UW CSE as a postdoc and then on to Rice ECE as an Assistant Professor.
 <br>
 *links:*
-[website](https://momona-yamagami.github.io/)
+[website](https://momona.rice.edu/)
 
+![Ben Chasnov]({{ site.url }}/images/people/ben_chasnov.jpg){: .pull-left}
+**Ben Chasnov**
+received his BS in Engineering from Harvey Mudd College in 2016.  Working at the intersection of
+control theory, online learning and game theory, Ben focuses his research on the theory and design of *multi-agent learning algorithms*.
+The analysis of such algorithms is studied in the context of human/computer interaction, computational neuroscience and aerospace applications. Ben is a Maker at heart and, in his downtime, loves to tinker with food, drink, code and wires. 
+<br>
+*links:*
+[website](http://students.washington.edu/bchasnov)
 
+![Maneeshika Madduri]({{ site.url }}/images/people/maneeshika_madduri.jpg){: .pull-left}
+**Maneeshika Madduri**
+received her BS in Electrical Engineering from Stanford University in 2013 and her MS in Electrical Engineering from Stanford University in 2015. She is a PhD candidate in UW ECE and is co-advised by Sam Burden and Amy Orsborn. Her interests lie in using brain-machine interfaces to understand the neural mechanisms of motor learning.
 
 ---
 
@@ -173,6 +167,16 @@ is was undergraduate student at the University of Washington who worked with Jos
 **Lauren Peterson** 
 is was undergraduate student studying Electrical & Computer Engineering at the University of Washington. She studied movement learning strategies in people with and without impaired movement in our group, and participated in an REU site at the Johns Hopkins University under the supervision of Prof Noah Cowan.
 
+![Annika Pfister]({{ site.url }}/images/people/annika_pfister.jpg){: .pull-left}
+**Annika Pfister**
+is a neuroscience major at Wellesley College. She worked with Maneeshika and Amber on a REU project sponsored by the [Center for Neurotechnology](https://centerforneurotech.uw.edu/) to implement dynamic learning rates in adaptive decoders. Her research interests include neuroprosthetics, closed-loop sensorimotor control, and noninvasive neural interfaces.
+
+**Ruweyda Abdi**
+
+**Rukia Adan**
+
+**Isatou Barrow**
+
 **Alexis Blakes**
 
 **Cydney Beckwith**
@@ -181,9 +185,15 @@ is was undergraduate student studying Electrical & Computer Engineering at the U
 
 **Jimmy Coleman**
 
+**Fatima Gbla**
+
 **Ashley Grey**
 
 **Trixie Ip**
+
+**Jainaba Jawara** 
+
+**Ahshah Kennedy**
 
 **Clara Orndorff**
 
@@ -191,3 +201,8 @@ is was undergraduate student studying Electrical & Computer Engineering at the U
 
 **Gabriel Solia**
 
+**Mussie H Tsegay**
+
+**Diana Verduzco**
+
+**Raul Villanueva**
