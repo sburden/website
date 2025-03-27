@@ -41,7 +41,10 @@ earned his BS and MS in Electrical Engineering from the University of Washington
 ### undergraduate students
 
 
-![Liya Hutchison]({{ site.url }}/images/people/liya_hutchison.png){: .pull-left} is an undergraduate student studying Informatics and Human-Computer Interaction. Working alongside Amber Chou, she develops co-adaptive human-machine interfaces integrating biosignal processing, surface electromyography (EMG), and haptics. Her work includes designing multimodal control systems for assistive technology and co-adaptive teleoperation. She is particularly interested in the future of human-machine interaction in healthcare, and how robotics can aid in medicine and accessibility.
+![Liya Hutchison]({{ site.url }}/images/people/liya_hutchison.png){: .pull-left} 
+
+**Liya Hutchison** 
+is an undergraduate student studying Informatics and Human-Computer Interaction. Working alongside Amber Chou, she develops co-adaptive human-machine interfaces integrating biosignal processing, surface electromyography (EMG), and haptics. Her work includes designing multimodal control systems for assistive technology and co-adaptive teleoperation. She is particularly interested in the future of human-machine interaction in healthcare, and how robotics can aid in medicine and accessibility.
 
 
 ---
