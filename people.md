@@ -47,6 +47,10 @@ earned his BS and MS in Electrical Engineering from the University of Washington
 is an undergraduate student studying Informatics and Human-Computer Interaction. Working alongside Amber Chou, she develops co-adaptive human-machine interfaces integrating biosignal processing, surface electromyography (EMG), and haptics. Her work includes designing multimodal control systems for assistive technology and co-adaptive teleoperation. She is particularly interested in the future of human-machine interaction in healthcare, and how robotics can aid in medicine and accessibility.
 
 
+![Lauren Peterson]({{ site.url }}/images/people/lauren_peterson.jpg){: .pull-left}
+**Lauren Peterson**
+is an undergraduate student studying Electrical and Computer Engineering at the University of Washington. She is working with Momona to understand movement impairment and improve rehabilitative technology for people with neurologic injury.
+
 ---
 
 ### alumni -- PhD
