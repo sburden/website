@@ -82,6 +82,13 @@ I am always eager to recruit motivated and independent folks.  If you're interes
 Before reaching out, look at my recent [papers]({{ site.url }}/papers), [talks]({{ site.url }}/talks), and/or videos below, and let me know (a) what ideas or problems you find particularly interesting and (b) how you would want to contribute.
 
 ---
+### [On human-machine interaction games]({{ site.url }}/_talks/20240918-gatech.pptx)
+
+I created a talk in Fall of 2024 and presented it at a few places. I'm particularly proud of this talk, as it shows how my group's work on human-machine interaction has grown over the past 5 or so years from modeling human sensorimotor transformations to using game theory to predict and shape human-machine interaction outcomes.
+
+You can watch a recording of my presentation in the Stanford Robotics Seminar using [this link](https://youtu.be/_Z0wWY4lfyE?si=6CdSPfYi9ir4TM9g).
+
+---
 ### [human/machine interaction is a sensorimotor game]({{ site.url }}/_talks/20220615-dw.pdf)
 
 I presented at the 2022 Dynamic Walking meeting at "the other UW" in Madison, WI. You can [watch the video using this link](https://mediaspace.wisc.edu/media/DW22_Burden,+Sam+-+June+15th+2022,+10A52A00+am/1_b22fx5a7).
@@ -127,7 +134,7 @@ I gave this talk on Sep 30 2016 at Microsoft Research in Redmond; I particularly
 
 ### [Predictive dynamical models for sensorimotor control](http://faculty.uw.edu/_talks/20151117-uwee.pptx)
 
-I gave this talk on Nov 17 2015, shortly after starting as an Asst Prof in UW EE; it provides an overview of the work I did toward the end of my PhD and as a postdoc.
+I gave this talk on Nov 17 2015, shortly after starting as an Asst Prof in UW EE; it provides an overview of the work I did toward the end of my PhD and as a postdoc. The video is [here](https://www.youtube.com/watch?v=rkDZ5rXgUO4&ab_channel=UWECEmedia).
 
 <iframe width="500" height="315" src="http://www.youtube.com/embed/rkDZ5rXgUO4?rel=0" frameborder="5"> </iframe>
 
@@ -136,7 +143,7 @@ I gave this talk on Nov 17 2015, shortly after starting as an Asst Prof in UW EE
 
 ### [Reduction and Identification for Models of Locomotion: an Emerging Systems Theory for Neuromechanics](http://faculty.uw.edu/_talks/2014-uw-ee.pdf)
 
-I gave this talk on Feb 18 2014, during my interview at UW EE; it provides an overview of my thesis work.
+I gave this talk on Feb 18 2014, during my interview at UW EE; it provides an overview of my thesis work. The video is [here](https://www.youtube.com/watch?v=sUvk2L3mbF0&ab_channel=UWECEmedia).
 
 <iframe width="500" height="315" src="http://www.youtube.com/embed/sUvk2L3mbF0?rel=0" frameborder="5"> </iframe>
 
