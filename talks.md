@@ -6,7 +6,7 @@ show-avatar: true
 
 title | venue
 :-:|:-:
-[On human/machine interaction games]({{ site.url }}/_talks/20240918-gatech.pptx) | Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, Atlanta, GA, USA, October 2024 <br> Stanford Robotics Seminar, Stanford University, Palo Alto, CA, USA, April 2025 <br> Dynamic Systems & Controls Seminar, University of California, San Diego, CA, USA, May 2025
+[On human/machine interaction games]({{ site.url }}/_talks/20240918-gatech.pptx) | Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, Atlanta, GA, USA, October 2024 <br> Stanford Robotics Seminar, Stanford University, Palo Alto, CA, USA, April 2025 <br> Dynamic Systems & Controls Seminar, University of California, San Diego, CA, USA, May 2025 <br> Northwest Robotics Symposium, Vancouver, BC, Canada, June 2025
 [Why can animals outrun robots?]({{ site.url }}/_talks/20240523-dw.pptx) | Dynamic Walking Meeting, Pensacola, FL, USA, 2024
 [human/machine interaction is a sensorimotor game]({{ site.url }}/_talks/20220615-dw.pdf) | Dynamic Walking Meeting, Madison, WI, USA, 2022
 [Sensorimotor games:  human/machine collaborative learning and control]({{ site.url }}/_talks/20211104-mlmc.pptx) | Plenary at [Motor Learning and Motor Control](http://motor-conference.org), Nov 2021
