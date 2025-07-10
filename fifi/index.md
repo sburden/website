@@ -74,7 +74,7 @@ Now close and re-open Inkscape -- if you were successful, there should be a Figu
 
 Let's do a minimal (but non-trivial) working example: we'll reproduce Fig 3D,E,F from [Maneeshika's paper](http://dx.doi.org/10.1101/2024.05.23.595598). Download the following files: [fifi.svg]({{ site.url }}/fifi/fifi.svg), [fifi.ipynb]({{ site.url }}/fifi/fifi.ipynb).
 
-If you open fifi.svg in Inkscape, you'll see a pretty boring canvas: three grey boxes indexed by D, E, and F. This really is all you need. If you wanted more annotations, for instance a box around one of the axes or arrows pointing at key elements, you add them to this file. 
+If you open fifi.svg in Inkscape, you'll see a pretty boring canvas: three grey boxes indexed by A, B, and C (OK so this differs from the D, E, and F in the paper, so sue me!). This really is all you need. If you wanted more annotations, for instance a box around one of the axes or arrows pointing at key elements, you add them to this file. 
 
 ![MWE for FiFi]({{ site.url }}/fifi/fifi.svg.png)
 
@@ -85,4 +85,11 @@ Now execute all the cells in fifi.ipynb. The final cell output should look like 
 The figures are very similar, but there are two important differences. First, we were able to directly add the A, B, C annotations and align them with respect to the axes' bounding boxes. Second, we have control over the dimensions of and spacing between axes, so we are able to achieve a more aesthetically pleasing spacing between the second and third axes without having to hack around in Matplotlib.
 
 Interestingly, fifi.svg has been modified by this process (change the filename in `lo.save('fifi.svg')` if you want to prevent this). Specifically, the layer "layout" has been hidden (by the argument `hide_layers=['layout']` to `FigureLayout(...)`) and a new layer "mpl_layer" has been created. If you re-run the FigureFirst cells in the .ipynb, the mpl_layer will be deleted and re-written (by the command `lo.clear_fflayer('mpl_layer')`). In this way, you can 'close the loop' between editing the layout and populating it with plots from Matplotlib.
+
+---
+## DIY
+
+To create your own layout, follow the very clear and concise instructions in the following video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wG5R0EMcBuI?si=ho1KSOrTof6_ae3R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
