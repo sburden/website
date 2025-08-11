@@ -27,6 +27,9 @@ show-avatar: true
 ## MS theses 
 {% bibtex _plugins/unabuser ms.bib %}
 
+## Patents
+{% bibtex _plugins/unabuser patent.bib %}
+
 ## Unpublished 
 {% bibtex _plugins/unabuser unpub.bib %}
 
