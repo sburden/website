@@ -44,15 +44,13 @@ I enjoy [climbing](http://www.seattleboulderingproject.com/), [paddleboarding](h
 
 I identify as a white hetero cis male, father, husband, and [first-generation college graduate](https://www.washington.edu/diversity/national-first-gen-day/).
 
-I live with [chronic illness]({{ site.url }}/2023-09-15-my-illness).
-
 [My pronouns](https://www.mypronouns.org/) are he/him/his.
 
 ---
 
 ## brief bio
 
-Sam Burden earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor, where he received awards for research (Young Investigator Program, Army Research Office, 2016; CAREER, National Science Foundation, M3X program, 2021) and service (Junior Faculty Award, UW College of Engineering, 2021). Sam served as his Department's first and last Associate Chair for Diversity, Equity, and Inclusion in 2021--2022 and 2024--2025, respectively. He was promoted to Associate Professor with tenure in 2022, and served as Associate Chair for Faculty Success in 2025--2026.  He is broadly interested in discovering and formalizing principles of sensorimotor control.  Specifically, he focuses on applications in robotics, neuroengineering, and (human-)cyber-physical systems.  Sam lives with chronic illness, and is happy to meet with anyone who identifies as disabled or chronically ill.
+Sam Burden earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor, where he received awards for research (Young Investigator Program, Army Research Office, 2016; CAREER, National Science Foundation, M3X program, 2021) and service (Junior Faculty Award, UW College of Engineering, 2021). Sam served as his Department's first and last Associate Chair for Diversity, Equity, and Inclusion in 2021--2022 and 2024--2025, respectively. He was promoted to Associate Professor with tenure in 2022, and served as Associate Chair for Faculty Success in 2025--2026.  He is broadly interested in discovering and formalizing principles of sensorimotor control.  Specifically, he focuses on applications in robotics, neuroengineering, and human-AI interaction.
 
 
 ---
