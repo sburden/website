@@ -12,7 +12,7 @@ show-avatar: true
 I am an Associate Professor with tenure (effective September 16, 2022) in Electrical & Computer Engineering at UW Seattle,
 and I served as my Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion) in the 2021--2022 academic year, and again from 2024 until it stopped being a thing in 2025, at which point I became our first Associate Chair for Faculty Development.  I was also a founding co-director of the [AMP Center](http://depts.washington.edu/amplify). 
 
-I am broadly interested in discovering and formalizing principles of sensorimotor control; I focus on applications in robotics, neuroengineering, and human-cyber-physical systems.
+I am broadly interested in discovering and formalizing principles of sensorimotor control; I focus on applications in robotics, neuroengineering, and human-AI interaction.
 
 I've taught the following courses:
 * [EE 201](https://canvas.uw.edu/courses/1695989) (Computer Hardware Skills) in Winter 2024
