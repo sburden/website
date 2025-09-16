@@ -10,7 +10,7 @@ show-avatar: true
 ---
 
 I am an Associate Professor with tenure (effective September 16, 2022) in Electrical & Computer Engineering at UW Seattle,
-and I served as my Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion) in the 2021--2022 academic year, and again from 2024 until it stopped being a thing in 2025, at which point I became our first Associate Chair for Faculty Success.  I was also a founding co-director of the [AMP Center](http://depts.washington.edu/amplify). 
+and I served as my Department's (first) Associate Chair for DEI (DEI = Diversity, Equity, Inclusion) in the 2021--2022 academic year, and again from 2024 until it stopped being a thing in 2025, at which point I became our first Associate Chair for Faculty Development.  I was also a founding co-director of the [AMP Center](http://depts.washington.edu/amplify). 
 
 I am broadly interested in discovering and formalizing principles of sensorimotor control; I focus on applications in robotics, neuroengineering, and human-cyber-physical systems.
 
@@ -50,7 +50,7 @@ I identify as a white hetero cis male, father, husband, and [first-generation co
 
 ## brief bio
 
-Sam Burden earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor, where he received awards for research (Young Investigator Program, Army Research Office, 2016; CAREER, National Science Foundation, M3X program, 2021) and service (Junior Faculty Award, UW College of Engineering, 2021). Sam served as his Department's first and last Associate Chair for Diversity, Equity, and Inclusion in 2021--2022 and 2024--2025, respectively. He was promoted to Associate Professor with tenure in 2022, and served as Associate Chair for Faculty Success in 2025--2026.  He is broadly interested in discovering and formalizing principles of sensorimotor control.  Specifically, he focuses on applications in robotics, neuroengineering, and human-AI interaction.
+Sam Burden earned his BS with Honors in Electrical Engineering from the University of Washington in Seattle in 2008.  He earned his PhD in Electrical Engineering and Computer Sciences from the University of California in Berkeley in 2014, where he subsequently spent one year as a Postdoctoral Scholar.  In 2015, he returned to UW EE (now ECE) as an Assistant Professor, where he received awards for research (Young Investigator Program, Army Research Office, 2016; CAREER, National Science Foundation, M3X program, 2021) and service (Junior Faculty Award, UW College of Engineering, 2021). Sam served as his Department's first and last Associate Chair for Diversity, Equity, and Inclusion in 2021--2022 and 2024--2025, respectively. He was promoted to Associate Professor with tenure in 2022, and served as Associate Chair for Faculty Development in 2025--2026.  He is broadly interested in discovering and formalizing principles of sensorimotor control.  Specifically, he focuses on applications in robotics, neuroengineering, and human-AI interaction.
 
 
 ---
